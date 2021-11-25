@@ -24,7 +24,7 @@ geoip-maxmind-url = https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Count
 # hide-vpn-icon = true
 
 # 是否启动完整的 IPv6 支持 (默认值: false)
-ipv6 = false
+ipv6 = true
 
 # Wi-Fi 访问
 # Surge 作为 HTTP/SOCKS5 代理服务器向 Wi-Fi 网络下的其他设备提供服务器
