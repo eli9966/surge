@@ -323,7 +323,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # GoogleDrive
 #RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleDrive.list,GoogleDrive
 # Google Voice
-#RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleVoice.list,📞 GoogleVoice
+#RULE-SET, https://github.com/eliZhai/surge/raw/main/GoogleVoice.list,📞 GoogleVoice
 #USER-AGENT,VoiceApp*,GoogleVoice
 # Google
 #RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🌐 Google
