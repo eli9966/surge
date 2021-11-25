@@ -423,7 +423,7 @@ hdslb.com = server:119.29.29.29
 # "iPhone X" cellular-mode = true
 
 [MITM]
-hostname = %APPEND% www.google.cn
+hostname = %APPEND% ios-*.prod.ftl.netflix.com, ios.prod.ftl.netflix.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, -*.weibo.com, vip1.kuwo.cn, ap*.intsig.net, vsco.co, api.revenuecat.com, api.picsart.c*, api.meiease.c*, mobile-api.adguard.com, guide-acs.m.taobao.com
 
 
 
