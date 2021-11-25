@@ -422,6 +422,8 @@ hdslb.com = server:119.29.29.29
 # 计费网络模式，当连接到热点名为 iPhone X 的网络时自动切换为计费模式
 # "iPhone X" cellular-mode = true
 
+[MITM]
+hostname = %APPEND% www.google.cn
 
 
 
