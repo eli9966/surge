@@ -59,7 +59,7 @@ skip-proxy = 192.168.0.0/16, 193.168.0.0/24, 172.16.0.0/12, 100.64.0.0/10, 10.0.
 # 当 Wi-Fi 不是首选网络时 SSID 组策略使用默认策略（仅 macOS 版可用）
 use-default-policy-if-wifi-not-primary = false
 # macOS Only
-enhanced-mode-by-rule = false
+#enhanced-mode-by-rule = false
 
 # Network Framework
 network-framework = false
@@ -99,7 +99,7 @@ tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 239.255.255.250
 
 # 高级
 # 日志等级: warning, notify, info, verbose (默认值: notify)
-loglevel = info
+loglevel = notify
 show-error-page-for-reject = true
 # 排除简单主机名
 exclude-simple-hostnames = true
