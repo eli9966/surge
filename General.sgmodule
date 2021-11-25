@@ -280,6 +280,7 @@ URL-REGEX,(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shi
 # > Surge And Github 外部资源更新
 # AND,((DOMAIN,raw.githubusercontent.com), (USER-AGENT,Surge*)),DEFAULT,notification-text="♻️外部资源更新",notification-interval=3600
 
+RULE-SET,https://github.com/NobyDa/Script/raw/master/Surge/WeChat.list,DIRECT
 # 去广告
 RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list,REJECT
 DOMAIN-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list,REJECT
